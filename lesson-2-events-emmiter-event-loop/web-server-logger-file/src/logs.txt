@@ -1,0 +1,11 @@
+2025-08-14T17:21:52.948Z - Server running on 3000 port
+2025-08-14T17:22:53.479Z - Server running on 3000 port
+2025-08-14T17:24:13.711Z - Server running on 3000 port
+2025-08-14T17:24:22.978Z - Success request GET /
+2025-08-14T17:24:34.097Z - Success request GET /contacts
+2025-08-14T17:24:50.238Z - Server running on 3000 port
+2025-08-14T17:24:52.645Z - Server running on 3000 port
+2025-08-14T17:25:12.093Z - Success request GET /
+2025-08-14T17:25:18.921Z - Success request GET /contacts
+2025-08-14T17:25:25.562Z - Error request GET /users
+2025-08-14T17:25:43.680Z - Server running on 3000 port
