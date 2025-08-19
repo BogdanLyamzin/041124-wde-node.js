@@ -1,0 +1,3 @@
+GET /api/movies
+POST /api/movies
+Finish write logs
