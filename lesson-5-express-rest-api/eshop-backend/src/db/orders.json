@@ -1,0 +1,10 @@
+[{
+    "id": 1,
+    "userId": 1,
+    "list": [
+        {
+            "productId": 1,
+            "count": 1
+        }
+    ]
+}]
